@@ -12,6 +12,8 @@ import City from "./components/City";
 import Form from "./components/Form";
 import { Navigate } from "react-router-dom";
 import { CitiesProvider } from "./contexts/CitiesContext";
+import { polyfillCountryFlagEmojis } from "country-flag-emoji-polyfill";
+polyfillCountryFlagEmojis();
 
 function App() {
   return (
