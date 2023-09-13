@@ -1,64 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "cityName": "Mallen",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2023-09-13T04:39:10.567Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "41.90159889881009",
+        "lng": "-1.4300663367342814"
       },
-      "id": 17806751
+      "id": 1
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Cier-de-Luchon",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-09-13T04:21:17.112Z",
+      "cityName": "Taddart",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2023-09-13T04:39:20.864Z",
       "notes": "",
       "position": {
-        "lat": "42.85930868644725",
-        "lng": "0.588868827915987"
+        "lat": "34.12343294422933",
+        "lng": "-3.69219699577462"
       },
-      "id": 98443198
+      "id": 2
     },
     {
-      "cityName": "Cier-de-Luchon",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-09-13T04:21:17.112Z",
+      "cityName": "El Bnoud",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-09-13T04:39:24.040Z",
       "notes": "",
       "position": {
-        "lat": "42.85930868644725",
-        "lng": "0.588868827915987"
+        "lat": "31.95138686144322",
+        "lng": "0.039109080735619806"
       },
-      "id": 98443199
+      "id": 3
     }
   ]
 }
